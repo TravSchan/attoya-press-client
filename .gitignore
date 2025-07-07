@@ -1,0 +1,21 @@
+
+# Local
+/config/environment/db-config.local.sql
+/config/environment/db-config.local.php
+
+# Large Files
+*.zip
+*.rar
+*.exe
+
+# Log Files
+*.log
+
+# Development
+/.vscode
+!*.md
+*.swp
+.noseids
+*~
+~*
+
